@@ -38,9 +38,7 @@
         android:id="@+id/tvTimestamp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/tvScreenName"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="301dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginEnd="0dp"
+        android:layout_alignParentEnd="true"
         tools:text="Date" />
 </RelativeLayout>
